@@ -3,9 +3,9 @@
     "description": "This is my first app",
     "husky": {
         "hooks": {
-          "pre-commit": "npm run lint"
+            "pre-commit": "npm run lint"
         }
-      },
+    },
     "scripts": {
         "test": "jest",
         "build": "tsc",
